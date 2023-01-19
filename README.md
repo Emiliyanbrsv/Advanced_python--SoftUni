@@ -7,4 +7,5 @@ This repository is for tasks during my Python Advanced course in the software ac
 
 - [Lists as Stacks and Queues](https://github.com/Emiliyanbrsv/Advanced_python--SoftUni/tree/main/lists_as_stacks_and_queues)
 - [Tuples and Sets](https://github.com/Emiliyanbrsv/Advanced_python--SoftUni/tree/main/tuples_and_sets)
+- [Stacks, Queues, Tuples and Sets](https://github.com/Emiliyanbrsv/Advanced_python--SoftUni/tree/main/stacks_queues_tuples_and_sets)
 
