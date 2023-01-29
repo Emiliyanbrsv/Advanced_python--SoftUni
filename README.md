@@ -9,3 +9,4 @@ This repository is for tasks during my Python Advanced course in the software ac
 - [Tuples and Sets](https://github.com/Emiliyanbrsv/Advanced_python--SoftUni/tree/main/tuples_and_sets)
 - [Stacks, Queues, Tuples and Sets](https://github.com/Emiliyanbrsv/Advanced_python--SoftUni/tree/main/stacks_queues_tuples_and_sets)
 
+- [Functions Advanced](https://github.com/Emiliyanbrsv/Advanced_python--SoftUni/tree/main/functions_advanced)
