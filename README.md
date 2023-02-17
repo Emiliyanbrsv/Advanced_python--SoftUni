@@ -10,3 +10,5 @@ This repository is for tasks during my Python Advanced course in the software ac
 - [Stacks, Queues, Tuples and Sets](https://github.com/Emiliyanbrsv/Advanced_python--SoftUni/tree/main/stacks_queues_tuples_and_sets)
 - [Multidimensional Lists](https://github.com/Emiliyanbrsv/Advanced_python--SoftUni/tree/main/multidimensional_lists)
 - [Functions Advanced](https://github.com/Emiliyanbrsv/Advanced_python--SoftUni/tree/main/functions_advanced)
+- [Workshop](https://github.com/Emiliyanbrsv/Advanced_python--SoftUni/tree/main/workshop)
+- [Exam prep](https://github.com/Emiliyanbrsv/Advanced_python--SoftUni/tree/main/exam_prep)
